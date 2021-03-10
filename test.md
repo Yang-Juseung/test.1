@@ -24,4 +24,4 @@ _important?_
 
 ~~not-important~~
 
-![harrypotter](harrypotter/그리핀도르+컴퓨터.jpg)
+![harrypotter](harrypotter/그리핀도르 + 컴퓨터.jpg)
